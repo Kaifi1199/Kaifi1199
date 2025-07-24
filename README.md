@@ -62,7 +62,7 @@ Learning:
 Advanced Prompt Engineering
 LLM APIs & Integration Patterns
 Scalable AI Architecture
-Next-Gen Automation Tech
+Deep Learning & CV
 
 ```
 
