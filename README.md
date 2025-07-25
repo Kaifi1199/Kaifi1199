@@ -70,8 +70,6 @@ Deep Learning & CV
 
 ---
 
-<!--
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> **Tech Stacks**
 
 <div align="center">
@@ -123,6 +121,8 @@ Deep Learning & CV
 </details>
 
 ---
+
+<!--
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340" style="max-width: 100%; height: auto;"> **GitHub Analytics Dashboard** <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340" style="max-width: 100%; height: auto;">
 
