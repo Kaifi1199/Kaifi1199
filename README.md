@@ -125,25 +125,23 @@ Deep Learning & CV
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340" style="max-width: 100%; height: auto;"> **GitHub Analytics Dashboard** <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340" style="max-width: 100%; height: auto;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaifi1199&theme=radical&hide_border=false&include_all_commits=true&count_private=false" style="max-width: 49%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaifi1199&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" style="max-width: 49%; height: auto;" />
   &nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kaifi1199&theme=radical&hide_border=false" style="max-width: 49%; height: auto;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kaifi1199&theme=tokyonight&hide_border=true" style="max-width: 49%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifi1199&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifi1199&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Trophy" width="40" /> **Achievement Gallery**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaifi1199&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" style="max-width: 100%; height: auto;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaifi1199&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
-
-<!--
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" style="max-width: 100%; height: auto;">
@@ -187,6 +185,3 @@ Deep Learning & CV
 </div>
 
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
