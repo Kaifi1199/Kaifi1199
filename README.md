@@ -122,7 +122,7 @@ class MuhammadKaif:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaifi1199&bg_color=0f0c29&color=00f7ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaifi1199&theme=tokyonight" width="95%" alt="Profile details"/>
 </p>
 
 ---
