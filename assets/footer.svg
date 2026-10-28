@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+  <filter id="blurf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+  <pattern id="dotsf" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity="0.06"/></pattern>
+<clipPath id="c"><rect width="1200" height="260" rx="28"/></clipPath>
+<linearGradient id="n" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="260" fill="#07060f"/>
+  <g filter="url(#blurf)" opacity="0.75">
+    <circle cx="180.0" cy="52.0" r="117.0" fill="#8b5cf6"><animate attributeName="cx" values="144.0;360.0;144.0" dur="14s" repeatCount="indefinite"/></circle>
+    <circle cx="900.0" cy="234.0" r="104.0" fill="#22d3ee" opacity="0.7"><animate attributeName="cy" values="247.0;143.0;247.0" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="660.0" cy="26.0" r="78.0" fill="#f472b6" opacity="0.45"><animate attributeName="cx" values="600.0;840.0;600.0" dur="17s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect width="1200" height="260" fill="url(#dotsf)"/>
+
+<text x="600.0" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-1" fill="url(#n)">Let's build something intelligent.</text>
+<text x="600.0" y="170" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#9ca3af">open to collaborations on AI agents, automation &amp; LLM products</text>
+<path d="M0 230 Q 150 205 300 230 T 600 230 T 900 230 T 1200 230 T 1500 230 V260 H0Z" fill="#22d3ee" opacity="0.18"><animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="6s" repeatCount="indefinite"/></path>
+<path d="M0 240 Q 150 220 300 240 T 600 240 T 900 240 T 1200 240 T 1500 240 V260 H0Z" fill="#8b5cf6" opacity="0.3"><animateTransform attributeName="transform" type="translate" values="-300 0;0 0" dur="8s" repeatCount="indefinite"/></path>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="259" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+</svg>
