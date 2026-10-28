@@ -2,24 +2,25 @@
 
 <table width="100%"><tr>
 <td align="left"><sub><code>(PORTFOLIO — 2026)</code></sub></td>
-<td align="right"><sub>● <code>OPEN TO FULL-TIME ROLES</code></sub></td>
+<td align="right"><sub><img src="assets/status.svg" width="10"/> <code>OPEN TO FULL-TIME ROLES</code></sub></td>
 </tr></table>
 
-$`\Huge\text{Muhammad}`$
+$`\Huge\textbf{Muhammad}`$
 
-$`\Huge\textit{Kaif}\ \color{#FF4A1C}\bigstar`$
+$`\Huge\color{#FF4A1C}\textit{Kaif}\ \bigstar`$
+
+<img src="assets/typing.svg" height="34"/>
 
 <table width="100%"><tr>
 <td width="30%" valign="top"><sub><code>FULL STACK AI ENGINEER</code><br/><code>FAISALABAD, PAKISTAN</code></sub></td>
 <td valign="top"><h3>I build web products with a model somewhere inside them, and I care just as much about the front end people actually touch.</h3></td>
 </tr></table>
 
-> *Next.js* $`\color{#FF4A1C}\star`$ *FastAPI* $`\color{#FF4A1C}\star`$ *LLM pipelines* $`\color{#FF4A1C}\star`$ *n8n automation* $`\color{#FF4A1C}\star`$ *Firebase* $`\color{#FF4A1C}\star`$ *MongoDB* $`\color{#FF4A1C}\star`$ *NLP* $`\color{#FF4A1C}\star`$ *Flutter* $`\color{#FF4A1C}\star`$ *TypeScript* $`\color{#FF4A1C}\star`$ *Python*
+<img src="assets/ticker.svg" width="100%"/>
 
 <br/>
 
-<sub><code>(01)</code></sub>
-## Selected work <sub><sup>&nbsp;&nbsp;<code>4 PROJECTS, 2025 – 26</code></sup></sub>
+## $`\color{#FF4A1C}\scriptsize\texttt{(01)}`$ $`\LARGE\textsf{Selected work}`$ <sub><sup>&nbsp;&nbsp;<code>4 PROJECTS, 2025 – 26</code></sup></sub>
 
 <table width="100%">
 <tr>
@@ -83,8 +84,7 @@ $`\Huge\textit{Kaif}\ \color{#FF4A1C}\bigstar`$
 
 <br/>
 
-<sub><code>(02)</code></sub>
-## About me <sub><sup>&nbsp;&nbsp;<code>THE SHORT VERSION</code></sup></sub>
+## $`\color{#FF4A1C}\scriptsize\texttt{(02)}`$ $`\LARGE\textsf{About me}`$ <sub><sup>&nbsp;&nbsp;<code>THE SHORT VERSION</code></sup></sub>
 
 ### Most of what I build sits between a web interface and a model. I like that seam: getting an LLM to do something useful is half the job, the other half is making it feel obvious to the person using it. My final year project, $`\color{#FF4A1C}\textit{AasaanLearn}`$, came out of that, a set of reading and listening tools for students who learn differently.
 
@@ -96,8 +96,7 @@ $`\Huge\textit{Kaif}\ \color{#FF4A1C}\bigstar`$
 
 <br/>
 
-<sub><code>(03)</code></sub>
-## Where I’ve worked <sub><sup>&nbsp;&nbsp;<code>INTERNSHIPS, 2025</code></sup></sub>
+## $`\color{#FF4A1C}\scriptsize\texttt{(03)}`$ $`\LARGE\textsf{Where I've worked}`$ <sub><sup>&nbsp;&nbsp;<code>INTERNSHIPS, 2025</code></sup></sub>
 
 <table width="100%">
 <tr>
@@ -121,8 +120,7 @@ $`\Huge\textit{Kaif}\ \color{#FF4A1C}\bigstar`$
 
 <br/>
 
-<sub><code>(04)</code></sub>
-## Tools I reach for <sub><sup>&nbsp;&nbsp;<code>FROM THE RESUME, NOT A WISHLIST</code></sup></sub>
+## $`\color{#FF4A1C}\scriptsize\texttt{(04)}`$ $`\LARGE\textsf{Tools I reach for}`$ <sub><sup>&nbsp;&nbsp;<code>FROM THE RESUME, NOT A WISHLIST</code></sup></sub>
 
 <table width="100%">
 <tr><td width="22%"><sub><code>LANGUAGES</code></sub></td><td>Python · TypeScript · JavaScript · SQL</td></tr>
@@ -135,8 +133,7 @@ $`\Huge\textit{Kaif}\ \color{#FF4A1C}\bigstar`$
 
 <br/>
 
-<sub><code>(05)</code></sub>
-## Education <sub><sup>&nbsp;&nbsp;<code>FAISALABAD, START TO FINISH</code></sup></sub>
+## $`\color{#FF4A1C}\scriptsize\texttt{(05)}`$ $`\LARGE\textsf{Education}`$ <sub><sup>&nbsp;&nbsp;<code>FAISALABAD, START TO FINISH</code></sup></sub>
 
 <table width="100%">
 <tr><td width="22%"><sub><code>2022 – 2026</code></sub></td><td><b>BS Artificial Intelligence</b>, National Textile University, Faisalabad<br/><sub>CGPA 3.15. Thesis: AasaanLearn, 1st position in the FYP category.</sub></td></tr>
@@ -146,9 +143,9 @@ $`\Huge\textit{Kaif}\ \color{#FF4A1C}\bigstar`$
 
 <br/>
 
-<sub><code>(06) CONTACT</code></sub>
+$`\color{#FF4A1C}\scriptsize\texttt{(06) CONTACT}`$
 
-$`\Huge\text{Let's build}`$
+$`\Huge\textbf{Let's build}`$
 
 $`\Huge\color{#FF4A1C}\textit{something.}`$
 
